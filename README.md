@@ -1,2 +1,2 @@
 # Scm
-my bew project
+my new project
